@@ -1,0 +1,4 @@
+#Thu Jun 29 17:25:52 CDT 2017
+base.0=C\:\\Users\\luis fernando\\Desktop\\ejemplos\\BannerExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\luis fernando\\Desktop\\ejemplos\\BannerExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

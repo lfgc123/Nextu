@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\luis fernando\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_125113b1ef416c5cf44f81f8ddba99fcad96eaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luis fernando\.android\build-cache\aa63cf82ff76542d558b08785d1db10a59ae7fed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\build\intermediates\pre-dexed\debug\classes_7bca4165046132a77a21f3f67a1fbcfc496677d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luis fernando\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_a63b23e3ae088d25a549eccfa6248cab332a604b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e0e8918eb74e3ee9e82eef6430a4359b2b577d3">
+        <dex dex="C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\build\intermediates\pre-dexed\debug\classes_7c165be6f7bcb111da72b503546cf4d882566e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luis fernando\.android\build-cache\cc030cc3df45076815db96bb0f2daa68af024421\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\build\intermediates\pre-dexed\debug\classes_0bf30521ca8b33d9edbd459d3cb72e8247689782.jar" />
+    </item>
+
+</items>

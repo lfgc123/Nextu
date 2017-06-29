@@ -1,0 +1,296 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:3:5-59
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\luis fernando\.android\build-cache\6568f4f111646357e8d5d921d2594279ecc6982f\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\luis fernando\.android\build-cache\9eb79c7ca4f1595efcdd332d52ab61d35b15e5b5\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\luis fernando\.android\build-cache\6568f4f111646357e8d5d921d2594279ecc6982f\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\luis fernando\.android\build-cache\9eb79c7ca4f1595efcdd332d52ab61d35b15e5b5\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.google.firebase:firebase-ads:11.0.0] C:\Users\luis fernando\.android\build-cache\8c83da7f0d396fb1a84c31b3ef2daaa45c780fb0\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\luis fernando\.android\build-cache\6568f4f111646357e8d5d921d2594279ecc6982f\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] C:\Users\luis fernando\.android\build-cache\c9a73b35edb100606154a876f397e7d5336ee139\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] C:\Users\luis fernando\.android\build-cache\8da1b9ca93827298c92e8f6ce70f6e7a987f0de6\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] C:\Users\luis fernando\.android\build-cache\5215ba46592c1a59e38ef32694599044b1f39524\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\luis fernando\.android\build-cache\e3ae20ebb791f53b20e7cd952ca33b0608af0240\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\luis fernando\.android\build-cache\18fa7012cb3a0e23c6f0a34e24f223078b39cea6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\luis fernando\.android\build-cache\96169920e2950f0b88184e8dce0cfcb1035d72e5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\luis fernando\.android\build-cache\44a930ba74cc451869678b3b9f3a4b09499417ee\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\luis fernando\.android\build-cache\aa63cf82ff76542d558b08785d1db10a59ae7fed\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\luis fernando\.android\build-cache\cc030cc3df45076815db96bb0f2daa68af024421\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\luis fernando\.android\build-cache\ec38d6860ca0405d5b555e5b4a79a701247f5df6\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\luis fernando\.android\build-cache\9eb79c7ca4f1595efcdd332d52ab61d35b15e5b5\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\luis fernando\.android\build-cache\2729f21717d245ad97c76c1ccea699d259d1655d\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\luis fernando\.android\build-cache\908d169b8593fbbb9163631888112f36cb38df68\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\luis fernando\.android\build-cache\005e78e77c98aa3c36f99d11e984f27405207d83\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\luis fernando\.android\build-cache\f8bbac62ef8840131f88d80aa497e920484324ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\luis fernando\.android\build-cache\dfed50ffd7b4873b0fdb25c3e6d571aac58ee81e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\luis fernando\.android\build-cache\822a82627c21c03ef8d54f9c611994ff80089d7e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\luis fernando\.android\build-cache\84e5ba24bcfcb0c5252786e14a1c76bc83a4f422\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\luis fernando\.android\build-cache\bdbfc1f6f8b21c54b748fcdc88c080ddbea2c7a3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\luis fernando\.android\build-cache\801ae4e1726bd31e2f0b335da8959b52ea646052\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:12:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:13:9-107
+	android:value
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:13:66-105
+	android:name
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:13:20-65
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:15:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\luis fernando\.android\build-cache\005e78e77c98aa3c36f99d11e984f27405207d83\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:15:66-119
+	android:name
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:15:20-65
+activity#com.google.android.gms.example.bannerexample.MyActivity
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:17:13-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:26:9-28:64
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\luis fernando\.android\build-cache\6568f4f111646357e8d5d921d2594279ecc6982f\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:27:13-122
+	android:theme
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:28:13-61
+	android:name
+		ADDED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml:26:19-71
+uses-sdk
+INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-ads:11.0.0] C:\Users\luis fernando\.android\build-cache\8c83da7f0d396fb1a84c31b3ef2daaa45c780fb0\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.0] C:\Users\luis fernando\.android\build-cache\ada183db02e95100200ab553ce36d5c9e47c7773\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\luis fernando\.android\build-cache\6568f4f111646357e8d5d921d2594279ecc6982f\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] C:\Users\luis fernando\.android\build-cache\c9a73b35edb100606154a876f397e7d5336ee139\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] C:\Users\luis fernando\.android\build-cache\8da1b9ca93827298c92e8f6ce70f6e7a987f0de6\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] C:\Users\luis fernando\.android\build-cache\5215ba46592c1a59e38ef32694599044b1f39524\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\luis fernando\.android\build-cache\e3ae20ebb791f53b20e7cd952ca33b0608af0240\output\AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\luis fernando\.android\build-cache\18fa7012cb3a0e23c6f0a34e24f223078b39cea6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\luis fernando\.android\build-cache\96169920e2950f0b88184e8dce0cfcb1035d72e5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\luis fernando\.android\build-cache\44a930ba74cc451869678b3b9f3a4b09499417ee\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\luis fernando\.android\build-cache\aa63cf82ff76542d558b08785d1db10a59ae7fed\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\luis fernando\.android\build-cache\cc030cc3df45076815db96bb0f2daa68af024421\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.0.0] C:\Users\luis fernando\.android\build-cache\ec38d6860ca0405d5b555e5b4a79a701247f5df6\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\luis fernando\.android\build-cache\9eb79c7ca4f1595efcdd332d52ab61d35b15e5b5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\luis fernando\.android\build-cache\2729f21717d245ad97c76c1ccea699d259d1655d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\luis fernando\.android\build-cache\908d169b8593fbbb9163631888112f36cb38df68\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\luis fernando\.android\build-cache\005e78e77c98aa3c36f99d11e984f27405207d83\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\luis fernando\.android\build-cache\f8bbac62ef8840131f88d80aa497e920484324ca\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\luis fernando\.android\build-cache\dfed50ffd7b4873b0fdb25c3e6d571aac58ee81e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\luis fernando\.android\build-cache\822a82627c21c03ef8d54f9c611994ff80089d7e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\luis fernando\.android\build-cache\84e5ba24bcfcb0c5252786e14a1c76bc83a4f422\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\luis fernando\.android\build-cache\bdbfc1f6f8b21c54b748fcdc88c080ddbea2c7a3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\luis fernando\.android\build-cache\801ae4e1726bd31e2f0b335da8959b52ea646052\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\luis fernando\.android\build-cache\18fa7012cb3a0e23c6f0a34e24f223078b39cea6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luis fernando\Desktop\ejemplos\BannerExample\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\luis fernando\.android\build-cache\e3ae20ebb791f53b20e7cd952ca33b0608af0240\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\luis fernando\.android\build-cache\e3ae20ebb791f53b20e7cd952ca33b0608af0240\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\luis fernando\.android\build-cache\e3ae20ebb791f53b20e7cd952ca33b0608af0240\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\luis fernando\.android\build-cache\e3ae20ebb791f53b20e7cd952ca33b0608af0240\output\AndroidManifest.xml:19:19-85
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.24.0] C:\Users\luis fernando\.android\build-cache\ba9f20a5b8d6d8871ef94f60ab23ffd115fdaa96\output\AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\luis fernando\.android\build-cache\18fa7012cb3a0e23c6f0a34e24f223078b39cea6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\luis fernando\.android\build-cache\96169920e2950f0b88184e8dce0cfcb1035d72e5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\luis fernando\.android\build-cache\44a930ba74cc451869678b3b9f3a4b09499417ee\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\luis fernando\.android\build-cache\aa63cf82ff76542d558b08785d1db10a59ae7fed\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\luis fernando\.android\build-cache\cc030cc3df45076815db96bb0f2daa68af024421\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\luis fernando\.android\build-cache\f8bbac62ef8840131f88d80aa497e920484324ca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\luis fernando\.android\build-cache\dfed50ffd7b4873b0fdb25c3e6d571aac58ee81e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\luis fernando\.android\build-cache\822a82627c21c03ef8d54f9c611994ff80089d7e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\luis fernando\.android\build-cache\84e5ba24bcfcb0c5252786e14a1c76bc83a4f422\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\luis fernando\.android\build-cache\bdbfc1f6f8b21c54b748fcdc88c080ddbea2c7a3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\luis fernando\.android\build-cache\801ae4e1726bd31e2f0b335da8959b52ea646052\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\luis fernando\.android\build-cache\18fa7012cb3a0e23c6f0a34e24f223078b39cea6\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\luis fernando\.android\build-cache\18fa7012cb3a0e23c6f0a34e24f223078b39cea6\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\luis fernando\.android\build-cache\9eb79c7ca4f1595efcdd332d52ab61d35b15e5b5\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\luis fernando\.android\build-cache\9eb79c7ca4f1595efcdd332d52ab61d35b15e5b5\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\luis fernando\.android\build-cache\9eb79c7ca4f1595efcdd332d52ab61d35b15e5b5\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\luis fernando\.android\build-cache\6dfc5c7c1e6ac6e506e33f051861413833238eca\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\luis fernando\.android\build-cache\e6a45d31e6f0f95febcdfbf925101a0e04d68ab5\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\luis fernando\.android\build-cache\2729f21717d245ad97c76c1ccea699d259d1655d\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\luis fernando\.android\build-cache\2729f21717d245ad97c76c1ccea699d259d1655d\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\luis fernando\.android\build-cache\2729f21717d245ad97c76c1ccea699d259d1655d\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\luis fernando\.android\build-cache\2729f21717d245ad97c76c1ccea699d259d1655d\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\luis fernando\.android\build-cache\2729f21717d245ad97c76c1ccea699d259d1655d\output\AndroidManifest.xml:6:79-143
